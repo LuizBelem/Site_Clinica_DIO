@@ -1,0 +1,130 @@
+.menu{
+    color: white;
+    background: linear-gradient(to right,#b94b71,#4972b3);
+    text-decoration: none;
+    margin-bottom: 15px;
+    border-radius: 25px;
+    
+}
+
+.sobrenos p {
+    text-align: left;
+}
+
+.titulos {
+    
+    background: linear-gradient(to right,#b94b71,#4972b3);
+    color: white;
+}
+
+    body {
+        background-color: rgb(0, 0, 0);
+    }
+    * {
+        color: white;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .fieldfora {
+    background: linear-gradient(to right,#b94b71,#4972b3);
+    border-radius: 25px;
+        
+    }
+
+    .field {
+        background: linear-gradient(to right,#b94b71,#4972b3);
+        margin: 10px;
+        border-color: rgb(255, 255, 255);
+        border-width: 1px;
+        color: black;
+        border-radius: 25px;
+        }   
+        
+        option {
+            color: black;
+        }
+
+     .exames {
+        background: linear-gradient(to right,#b94b71,#4972b3);
+        margin-top: 15px;
+        border-radius: 25px;
+                
+        }
+
+   .home {
+        text-decoration: none;
+        display: flex;
+        
+    }
+
+    #dio {
+        margin-top: 10px;
+        width: 120px;
+        margin-bottom: 10px;
+    }
+
+    .tipoexame h3 {
+
+        color: rgb(3, 19, 49);
+    }
+
+    .tipoexame p {
+
+        color: rgb(3, 19, 49);
+    }
+
+    
+    .fieldfora p {
+        color: rgb(3, 19, 49);
+        }
+
+    .conultas {
+        background: linear-gradient(to right,#b94b71,#4972b3);
+        margin-top: 15px;
+        border-radius: 25px;
+    }
+
+    .tabela_exames {
+        border-color: black;
+        border-style:groove
+    }
+
+    .formulario form label {
+        color: black;
+        border-radius: 10px;
+        margin-right: 20px;
+        margin-left: 10px;
+    }
+
+    .formulario form select  {
+        color: black;
+        border-radius: 10px;
+        margin-left: 10px;
+    }
+    .formulario form button {
+        color: black;
+        margin-left: 10px;
+        border-radius: 10px;
+    }
+    label input{
+        text-align: right;
+        display: inline-block;
+        width: 100px;
+        padding-right: 5px;
+    }
+
+    #nome {
+        margin-right:36px;
+    }
+
+    #email {
+        margin-right: 33px;
+    }
+
+    #data {
+        margin-left: 34px;
+    }
+
+    #telefone {
+        margin-left: 8px;
+    }
